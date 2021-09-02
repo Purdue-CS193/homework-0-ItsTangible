@@ -1,4 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Ben Winther's Page(ItsTangible)
+
+# This is one header
+## This is two
+### This is three!
+
+Then after, this appears
+- this is
+- a bulleted list
+1. This is
+2. a numbered list
+
+### This is a box!
+
+```markdown
+Yo whats good
+```
+
+**This is Bold** _This is Italiced_ and `This is code`
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
